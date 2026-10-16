@@ -1,52 +1,31 @@
 <div align="center">
 
-![Привет, я Евгений — DevOps, Linux, автоматизация](./assets/hero.svg)
+<img src="./assets/hero.svg" alt="Привет, я Евгений — Linux, DevOps, автоматизация" width="100%">
+
+<img src="./assets/dashboard.svg" alt="Терминал, технологии, направления работы, проекты и активность" width="100%">
 
 </div>
 
-<table><tr><td width="50%"><img src="./assets/terminal.svg" alt="Терминал и навыки" width="100%"></td><td width="50%"><img src="./assets/directions.svg" alt="Направления работы" width="100%"></td></tr></table>
+<details>
+<summary>🔗 Ссылки на публичные репозитории</summary>
 
-### ⚙️ Технологии
+- [shift_generator](https://github.com/emikoff/shift_generator)
+- [Deribit-tracker-with-Celery-and-Docker](https://github.com/emikoff/Deribit-tracker-with-Celery-and-Docker)
+- [iva-connect-install](https://github.com/emikoff/iva-connect-install)
 
-<div align="center">
+</details>
 
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql)
-![Nginx](https://img.shields.io/badge/Nginx-111827?style=for-the-badge&logo=nginx)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions)
-![Prometheus](https://img.shields.io/badge/Prometheus-111827?style=for-the-badge&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-111827?style=for-the-badge&logo=grafana)
-![n8n](https://img.shields.io/badge/n8n-111827?style=for-the-badge&logo=n8n)
+<details>
+<summary>ℹ️ Подробнее о проектах</summary>
 
-</div>
+**Kama-book** — сервис бронирования переговорных комнат. Моя роль: Docker, Nginx, HTTPS, CI/CD и сопровождение инфраструктуры. Приложение использует Go, но я не позиционирую себя как Go-разработчик.
 
-### 👤 Обо мне
+**ExamTrainer** — Telegram-бот для подготовки к экзаменам с PostgreSQL.
 
-Инженер с опытом развёртывания и сопровождения сервисов, автоматизации инфраструктуры и работы с Linux. Интересуюсь мониторингом, надёжностью систем и созданием полезных инструментов. Развиваюсь в направлении DevOps и автоматизации.
+**Linux Monitoring** — мониторинг инфраструктуры на Prometheus и Grafana.
 
-### 📁 Избранные проекты
+**AI-Профилирование** — развёртывание сервиса профориентации.
 
-<table>
-<tr><td width="50%"><img src="./assets/project-1.svg" alt="Kama-book" width="100%"></td><td width="50%"><img src="./assets/project-2.svg" alt="ExamTrainer" width="100%"></td></tr>
-<tr><td width="50%"><img src="./assets/project-3.svg" alt="Linux Monitoring" width="100%"></td><td width="50%"><img src="./assets/project-4.svg" alt="AI-Профилирование" width="100%"></td></tr>
-</table>
+Часть проектов находится в приватных репозиториях. Визуальные панели — иллюстрации, а не реальные скриншоты интерфейсов или статистика GitHub.
 
-> Это проекты из моего опыта. Часть исходного кода находится в приватных репозиториях. В Kama-book приложение написано на Go, моя роль — развёртывание и DevOps.
-
-### 🔗 Публичные репозитории
-
-[shift_generator](https://github.com/emikoff/shift_generator) · [Deribit-tracker-with-Celery-and-Docker](https://github.com/emikoff/Deribit-tracker-with-Celery-and-Docker) · [iva-connect-install](https://github.com/emikoff/iva-connect-install)
-
-### 📈 Активность GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emikoff&show_icons=true&hide_border=true&theme=github_dark&locale=ru)
-
-![График активности](https://github-readme-activity-graph.vercel.app/graph?username=emikoff&theme=github-compact&hide_border=true)
-
-**Linux · DevOps · Автоматизация · Постоянное развитие**
-
-</div>
+</details>
